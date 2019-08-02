@@ -1,0 +1,16 @@
+Chess Game
+    satranc tahtasi
+    piyonlar
+    rastgele dizilim
+
+Esini Bul
+    kullaniciya sorsun
+    ornegin 10 yazdiysa
+    10x10 tahta olustursun
+    bu tahtayi rastgele harfler/rakamlar ile cifter cifter doldursun
+    girilen iki hucrenin icerigi karsilastirilacak
+
+Amiral Batti
+    6x6 tahta olustursun
+    rastgele 3 tane gemiyi yerlestirsin (1x1, 1x2, 1x3)
+    soyledigim hucrede gemi var mı yok mu kontrol etsin
